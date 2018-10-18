@@ -1,0 +1,18 @@
+[user]
+  name = Daniel Cardoza
+  email = dan@danielcardoza.com
+[core]
+  editor = /usr/bin/vim
+[alias]
+  s = status
+  ss = status -s
+  ch = checkout
+  root = !pwd
+[push]
+  default = upstream
+[merge]
+  tool = kdiff3
+[diff]
+  tool = kdiff3
+[help]
+  autocorrect = 100
